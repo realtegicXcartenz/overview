@@ -22,7 +22,7 @@ _PIC_ is the person who is responsible for developing the feature/menu. So you m
 For the workflow, there's 3 branch for development, stagging, and production environment. When developing a feature from menu/module, make your own branch with this format
 
 ```
-<dev_name>_feat:<menu>-<remarks> 
+<dev_name>_feat/<menu>-<remarks> 
 ```
 After committing, make a pull request to merge your current code to this branch below and don't forget to assign the reviewer to the **_PIC_** of the feature you're working on
 ```
