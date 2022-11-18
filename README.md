@@ -10,7 +10,7 @@ E.g. crm-fe-web
 
 ## Modules
 
-Every module has its own **_features and menus_**
+Every module has its own **_features and menus_**.
 Every feature and menu has its own **_PIC_**
 
 ## Who is PIC?
@@ -43,6 +43,15 @@ If the stagging passed the UAT (_User Acceptance Test_) it will be deployed to p
 ```
 production
 ```
+
+## About all the PIC
+
+### CRM PIC
+- Nicholas Fortune (jayfortune03) (deployment on dev, stagging, prod, chat WA, mobile app)
+- Taufik Ramadhan (deployment on dev, stagging, prod, chat WA)
+- Vira (chat Chatwoot)
+- Rafie (chat chatwoot & contact)
+- Iwan (contact)
 
 
 #### P.S. Lord CTO will haunt you.
