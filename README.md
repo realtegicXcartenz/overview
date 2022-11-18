@@ -44,6 +44,12 @@ If the stagging passed the UAT (_User Acceptance Test_) it will be deployed to p
 production
 ```
 
+## About making pull request
+![image](https://user-images.githubusercontent.com/85435591/202667047-e4537f10-3c1a-4340-a365-3a1b7ed1e4ca.png)
+
+Choose the branch with the _PIC_ you're developing on and make the reviewers and assignees the _PIC_ and don't forget to add labels about what you're working on
+
+
 ## About all the PIC
 
 ### CRM PIC
