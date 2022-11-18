@@ -43,3 +43,6 @@ If the stagging passed the UAT (_User Acceptance Test_) it will be deployed to p
 ```
 production
 ```
+
+
+#### P.S. Lord CTO will haunt you.
