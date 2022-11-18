@@ -49,6 +49,7 @@ production
 
 Choose the branch with the _PIC_ you're developing on and make the reviewers and assignees the _PIC_ and don't forget to add labels about what you're working on
 
+**PLEASE MAKE A DESCRIPTIVE COMMIT MESSAGE FOR THE ASSINGESS AND REVIEWERS PURPOSE TO UNDERSTAND WHAT YOU'VE DEVELOPED**
 
 ## About all the PIC
 
