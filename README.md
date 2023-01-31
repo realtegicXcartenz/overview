@@ -61,4 +61,4 @@ Choose the branch with the _PIC_ you're developing on and make the reviewers and
 - Iwan (contact)
 
 
-#### P.S. Lord CTO will haunt you.
+#### P.S. Happy coding!
